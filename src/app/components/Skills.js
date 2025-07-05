@@ -45,7 +45,7 @@ export default function Skills() {
             <h2 className="text-4xl font-bold text-gray-800 mb-4">Skills & Abilities</h2>
             <div className="w-24 h-1 bg-blue-600 mx-auto mb-4"></div>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Here are the technologies and skills I've developed through my bootcamp, 
+              Here are the technologies and skills I&apos;ve developed through my bootcamp, 
               projects, and professional experience.
             </p>
           </div>

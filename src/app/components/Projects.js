@@ -93,7 +93,7 @@ export default function Projects() {
             <h2 className="text-4xl font-bold text-gray-800 mb-4">My Projects</h2>
             <div className="w-24 h-1 bg-blue-600 mx-auto mb-4"></div>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Here are some of the projects I've built to demonstrate my skills and explore new technologies.
+              Here are some of the projects I&apos;ve built to demonstrate my skills and explore new technologies.
             </p>
           </div>
 
